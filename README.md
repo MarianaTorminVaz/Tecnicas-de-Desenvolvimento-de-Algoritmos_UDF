@@ -1,55 +1,43 @@
-# Nome do Projeto
+# Técnicas de Desenvolvimento de Algoritmos
 
-![Badge de Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-blue)
-![Badge de Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-green)
+Bem-vindo(a) ao repositório oficial da disciplina de **Técnicas de Desenvolvimento de Algoritmos**!
 
----
+Este espaço foi criado para centralizar todo o material, códigos e projetos desenvolvidos ao longo do curso, facilitando o acesso e a colaboração entre os estudantes.
 
-## 💻 Sobre o Projeto
+## Sobre a Disciplina
 
-(Descreva em uma ou duas frases o que o seu projeto faz. Por exemplo: "Este projeto é uma API RESTful para gerenciar tarefas, permitindo a criação, leitura, atualização e exclusão de itens.")
+A disciplina de **Técnicas de Desenvolvimento de Algoritmos** aborda os conceitos e práticas essenciais para a criação de algoritmos eficientes e otimizados. Durante o curso, exploraremos temas como:
 
----
+* Análise de complexidade de tempo e espaço.
+* Estruturas de dados (listas, pilhas, filas, árvores, grafos, etc.).
+* Técnicas de projeto de algoritmos (divisão e conquista, programação dinâmica, algoritmos gulosos, etc.).
+* Implementação de algoritmos clássicos de busca e ordenação.
 
-## 🚀 Tecnologias
+## Estrutura do Repositório
 
-As seguintes tecnologias foram usadas no desenvolvimento deste projeto:
+O repositório está organizado para que você encontre facilmente o que precisa:
 
-* **[Nome da Tecnologia 1]** - (Versão, se aplicável)
-* **[Nome da Tecnologia 2]** - (Versão, se aplicável)
-* **[Nome da Tecnologia 3]** - (Versão, se aplicável)
+* `aulas/`: Contém os materiais teóricos, slides e anotações das aulas.
+* `listas-de-exercicios/`: Inclui os enunciados e as possíveis soluções para as listas de exercícios.
+* `projetos/`: Os códigos dos projetos práticos desenvolvidos na disciplina.
+* `exemplos-de-codigo/`: Pequenos códigos-fonte que demonstram a implementação de estruturas de dados ou algoritmos específicos.
 
----
+## Como Contribuir
 
-## ⚙️ Instalação
+A colaboração é fundamental para o aprendizado! Sinta-se à vontade para:
 
-Siga os passos abaixo para instalar e rodar o projeto localmente:
+1.  Abrir **issues** para relatar erros ou sugerir melhorias.
+2.  Criar **pull requests** com suas soluções para os exercícios ou com novos exemplos de código.
+3.  Manter o conteúdo organizado e atualizado.
 
-1.  **Clone o repositório:**
-    ```bash
-    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
-    ```
+## Professores e Monitores
 
-2.  **Entre no diretório do projeto:**
-    ```bash
-    cd nome-do-repositorio
-    ```
+* **Professor(a):** [Nome do(a) Professor(a)]
+* **Monitor(a):** [Nome do(a) Monitor(a)]
 
-3.  **Instale as dependências:**
-    ```bash
-    # Exemplo para Node.js
-    npm install
+## Linguagem e Tecnologias
 
-    # Exemplo para Python
-    pip install -r requirements.txt
-    ```
+Nesta disciplina, utilizamos principalmente a linguagem de programação **[Nome da Linguagem de Programação]**. As ferramentas e bibliotecas que usamos são:
 
----
-
-## ▶️ Como Usar
-
-(Explique como usar o projeto, incluindo exemplos de código, se necessário. Exemplo: "Para iniciar o servidor, execute o seguinte comando: `npm start`")
-
-```bash
-# Exemplo de comando para rodar o projeto
-node server.js
+* [Ferramenta/Biblioteca 1]
+* [Ferramenta/Biblioteca 2]
